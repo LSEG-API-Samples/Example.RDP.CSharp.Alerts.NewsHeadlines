@@ -24,7 +24,7 @@ These NuGet packages support .NET Standard 1.6 and 2.0.
 
 ## Steps to subscribe to alerts
 
-This section demonstrates steps to develop a C# application to subscribe to news headlines from EDP alerts API. The application implements the workflow mentioned in the [Understanding the Alerts delivery mechanism in Elektron Data Platform](https://developers.refinitiv.com/article/alerts-delivery-mechanism-edp) article. It is developed with Visual Studio 2017 with .NET Core 2.0 and requires on the following NuGet packages:
+This section demonstrates steps to develop a C# application to subscribe to news headlines from EDP alerts API. The application implements the workflow mentioned in the [Understanding the Alerts delivery mechanism in Elektron Data Platform](https://developers.refinitiv.com/article/alerts-delivery-mechanism-edp) article. It is developed with Visual Studio 2017 with .NET Core 2.0 and depends on the following NuGet packages:
 
 * Refinitiv.EDP.AutoRest.Auth.OAuth2
 * Refinitiv.EDP.AutoRest.Alerts
