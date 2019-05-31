@@ -185,7 +185,7 @@ The **CredentialDetails** object contains the credentials to access the Amazon S
 
 ### 4. Polling and retrieving messages
 
-This step uses the  **CredentialDetails** object from the previous step to retrieve messages from the Amazon Simple Queue Service (SQS). It uses classes from the **AWSSDK.SQS** packages.
+This step uses the  **CredentialDetails** object from the previous step and classes from the **AWSSDK.SQS** packages to retrieve messages from the Amazon Simple Queue Service (SQS).
 
 ```CSharp
 using Amazon.SQS;
